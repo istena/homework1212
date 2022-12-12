@@ -1,0 +1,15 @@
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\taskdop2.csproj.AssemblyReference.cache
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\taskdop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\taskdop2.AssemblyInfoInputs.cache
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\taskdop2.AssemblyInfo.cs
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\taskdop2.csproj.CoreCompileInputs.cache
+C:\GeekBrain\homework3\taskdop2\bin\Debug\net6.0\taskdop2.exe
+C:\GeekBrain\homework3\taskdop2\bin\Debug\net6.0\taskdop2.deps.json
+C:\GeekBrain\homework3\taskdop2\bin\Debug\net6.0\taskdop2.runtimeconfig.json
+C:\GeekBrain\homework3\taskdop2\bin\Debug\net6.0\taskdop2.dll
+C:\GeekBrain\homework3\taskdop2\bin\Debug\net6.0\taskdop2.pdb
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\taskdop2.dll
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\refint\taskdop2.dll
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\taskdop2.pdb
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\taskdop2.genruntimeconfig.cache
+C:\GeekBrain\homework3\taskdop2\obj\Debug\net6.0\ref\taskdop2.dll
